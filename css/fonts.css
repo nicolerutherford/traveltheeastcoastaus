@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300&family=Poppins:wght@300&display=swap');
+
+h2 {font-size: 50px;}
+
+.subscribe__title {
+  font-size: 50px;
+}
+
+
+.notice__copy, p, ol, .form__email .form__button a {
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+nav a, h1, h2, .top-left, .title, .subscribe__title, .subscribed-tag{
+  font-family: 'Lobster', sans-serif;
+  font-weight: 300;
+
+}
+
+
+.subscribe__title, h1 {
+    font-size: 50px;
+    color: var(--second--secondary);
+  }
+
+  .title {
+    font-size: 80px;
+    color: var(--second--secondary)
+  }
+
+  @media (max-width: 1000px) {
+    .title { font-size: 50px; } 
+  
+  
+  }
+
