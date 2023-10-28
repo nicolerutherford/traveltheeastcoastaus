@@ -263,7 +263,7 @@
         margin: 5px;}
 
      p {
-         font size: 15px; }
+         font size: 10px; }
 
      .post-image { 
          margin: 5px;
@@ -271,6 +271,41 @@
        .footer-container {
       padding:0px;
       
+    }
+
+     .newsletter-container { 
+      padding:0px;
+    }
+
+
+       .form__email {
+      padding: 5px 5px;
+      width: 150px;
+      font-size: 10px;
+
+    }
+    
+    .form__button {
+      padding: 2px;
+      border: none;
+      width: 80px;
+      height: 50px;
+      border-radius: 5px;
+      font-size: 10px;
+  
+    }
+
+         .form {
+      margin-bottom: 0px;
+    }
+
+        .subscribe {
+      padding-bottom: 10px;
+    }
+
+         .subscribe__title {
+      margin-bottom: 10px;
+      font-size: 20px;
     }
  }
 
