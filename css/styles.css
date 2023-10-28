@@ -220,6 +220,7 @@
       text-align: right;
       background-color: var(--primary);
       padding:30px;
+      min-height: 130px;
       
     }
 
