@@ -253,7 +253,7 @@
       
   }
 
- @media (max-width: 400px) {
+ @media (max-width: 320px) {
     .main-image {
       display:none;
     }
@@ -264,7 +264,7 @@
      p {
          font size: 20px; }
 
-     post-image { 
+     .post-image { 
          margin: 5px;
  }
  }
