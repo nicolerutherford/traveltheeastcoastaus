@@ -254,7 +254,7 @@
   }
 
  @media (max-width: 600px) {
-    .main-image .top-left {
+    .main-image, .top-left {
       display:none;
     }
 
