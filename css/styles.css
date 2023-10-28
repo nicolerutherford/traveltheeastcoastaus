@@ -253,3 +253,8 @@
       
   }
 
+ @media (max-width: 400px) {
+    ..main-image {
+      display:none;
+    }
+
