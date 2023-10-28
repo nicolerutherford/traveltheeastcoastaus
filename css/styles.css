@@ -254,7 +254,26 @@
   }
 
  @media (max-width: 400px) {
-    ..main-image {
+    .main-image {
       display:none;
     }
+
+    .title {
+        margin: 5px;}
+
+     p {
+         font size: 20px; }
+
+     post-image { 
+         margin: 5px;
+ }
+ }
+
+
+
+
+
+
+
+     
 
