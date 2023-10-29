@@ -237,8 +237,8 @@
 
       .emailtick {
           flex-direction: column;
-          justify-content: left;
-          align-items: left;
+          justify-content: center;
+          align-items: center;
       }
       
     ol { margin-left: -25px;
