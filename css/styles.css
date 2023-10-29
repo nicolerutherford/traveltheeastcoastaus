@@ -234,6 +234,13 @@
       justify-content: center;
       align-items: center;
     }
+
+      .notice {
+          flex-direction: column;
+          justify-content: left;
+          align-items: left;
+      }
+      
     ol { margin-left: -25px;
       
     }
